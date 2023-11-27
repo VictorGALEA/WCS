@@ -1,6 +1,6 @@
 
 ![](https://github.com/VictorGALEA/WCS/blob/main/amongus.PNG)
-
+<img src="(https://github.com/VictorGALEA/WCS/blob/main/amongus.PNG)" alt="drawing" style="width:200px;"/>
 #### Victor Galea 
 ##### Administrateur Réseaux
 
