@@ -5,17 +5,17 @@
 ## Administrateur Réseaux
 
 
-Network administrator with experiences on Cisco and HPE Aruba products.
-Notions in telecoms, managing PABX, softphone Alcatel Rainbow.
+>Network administrator with experiences on Cisco and HPE Aruba products.
+>Notions in telecoms, managing PABX, softphone Alcatel Rainbow.
+>
+>Interested to learn and grow knowledges in virtualization.
 
-Interested to learn and grow knowledges in virtualization.
 
 
-
-Administrateur réseaux, expériences avec les produits Cisco, HPE Aruba.
-Des notions en télécommunications, gestion PABX, softphone Alcatel Rainbow.
-
-Intéressé de se former et d'acquérir des connaissances dans la virtualisation.
+>Administrateur réseaux, expériences avec les produits Cisco, HPE Aruba.
+>Des notions en télécommunications, gestion PABX, softphone Alcatel Rainbow.
+>
+>Intéressé de se former et d'acquérir des connaissances dans la virtualisation.
 
 ### Expérience
 
