@@ -1,5 +1,5 @@
 
-![Alt text](/relative/path/to/amongus.png?raw=true "MASUPERBEPHOTODEPROFIL")
+!(/relative/path/to/amongus.png?raw=true "MASUPERBEPHOTODEPROFIL")
 
 
 #### Victor Galea 
