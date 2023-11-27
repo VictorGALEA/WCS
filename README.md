@@ -17,29 +17,31 @@ Des notions en télécommunications, gestion PABX, softphone Alcatel Rainbow.
 
 Intéressé de se former et d'acquérir des connaissances dans la virtualisation.
 
-Expérience
-Graphique Sapeurs-pompiers de la Haute-Garonne
+### Expérience
+
+
 Administrateur Réseaux
 Sapeurs-pompiers de la Haute-Garonne
 2021 - 2022 1 an
 
 Colomiers, Occitanie, France
 
-Maintien en condition opérationnelle des équipements réseaux de l'infrastructure du SDIS31, + de 30 sites.
-Installation, gestion et mise à jour de l’ensemble des équipements, logiciels réseaux.
-Support niveau 2 de tickets incident sur ces périmètres et assistance aux utilisateurs.
-Graphique Mairie de Blagnac
+* Maintien en condition opérationnelle des équipements réseaux de l'infrastructure du SDIS31, + de 30 sites.
+* Installation, gestion et mise à jour de l’ensemble des équipements, logiciels réseaux.
+* Support niveau 2 de tickets incident sur ces périmètres et assistance aux utilisateurs.
+
 Administrateur Réseaux et Télécommunications
 Mairie de Blagnac
 2017 - 2020 3 ans
 
 Blagnac, Occitanie, France
 
-Installation, gestion et mise à jour de l’ensemble des équipements, logiciels réseaux et de télécommunications. + de 30 sites ; + de 140 équipements réseaux (switchs, routeurs, bornes WiFi) ; 12 autocommutateurs IP
-Réalisation de projets dans le domaine des réseaux et des télécommunications
-Suivi des travaux de câblage de courant faible et courant fort liés à l’informatique
+* Installation, gestion et mise à jour de l’ensemble des équipements, logiciels réseaux et de télécommunications. + de 30 sites ; + de 140 équipements réseaux (switchs, routeurs, bornes WiFi) ; 12 autocommutateurs IP
+* Réalisation de projets dans le domaine des réseaux et des télécommunications
+* Suivi des travaux de câblage de courant faible et courant fort liés à l’informatique
 Support niveau 2 de tickets sur ces périmètres, assistance aux utilisateurs
-Graphique STCI - GROUPE APIXIT
+
+
 Technicien Réseaux
 STCI - GROUPE APIXIT
 2015 - 2016 1 an
@@ -56,8 +58,9 @@ Labège, Occitanie, France
 
 Stage de fin d'études DUT de 10 semaines.
 Configuration VLAN, centre de gestion AM7450, mise en place DECT, migration vers de la ToIP
-Formation
-Graphique IUT de Blagnac
+
+### Formation
+
 IUT de Blagnac
 Licence professionnelle Réseaux Sans Fil et Sécurité
 2015 - 2016
