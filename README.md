@@ -1,5 +1,5 @@
 
-!(/relative/path/to/amongus.png?raw=true "MASUPERBEPHOTODEPROFIL")
+!(/relative/path/to/amongus.png?raw=true)
 
 
 #### Victor Galea 
