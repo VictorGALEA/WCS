@@ -77,3 +77,7 @@ Anglais
 Bilingue ou langue natale
 Français
 Bilingue ou langue natale
+
+### HOBBIES
+
+**PLACEHOLDER** (https://dillinger.io/)
