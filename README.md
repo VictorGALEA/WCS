@@ -80,4 +80,4 @@ Bilingue ou langue natale
 
 ### HOBBIES
 
-[**PLACEHOLDER**] (https://dillinger.io/)
+![**PLACEHOLDER**] (https://dillinger.io/)
