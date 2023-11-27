@@ -1,5 +1,5 @@
 
-![](style="width:20px;https://github.com/VictorGALEA/WCS/blob/main/amongus.PNG)
+![](https://github.com/VictorGALEA/WCS/blob/main/amongus.PNG)
 
 #### Victor Galea 
 ##### Administrateur Réseaux
