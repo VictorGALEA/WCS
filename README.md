@@ -2,7 +2,7 @@
 
 
 
-#### Victor Galea
+#### [Victor Galea](amongus.png)
 ##### Administrateur Réseaux
 
 
