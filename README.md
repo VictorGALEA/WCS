@@ -1,6 +1,5 @@
 
-!(/relative/path/to/amongus.png?raw=true)
-(https://github.com/VictorGALEA/WCS/blob/main/amongus.PNG)
+!(https://github.com/VictorGALEA/WCS/blob/main/amongus.PNG)
 
 #### Victor Galea 
 ##### Administrateur Réseaux
