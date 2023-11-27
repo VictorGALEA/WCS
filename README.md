@@ -1,5 +1,4 @@
-<img src="(https://github.com/VictorGALEA/WCS/blob/main/amongus.PNG" width="48">
-![](https://github.com/VictorGALEA/WCS/blob/main/amongus.PNG)
+![](https://github.com/VictorGALEA/WCS/blob/main/amongus.PNG width="48")
 
 
 #### Victor Galea 
