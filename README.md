@@ -1,5 +1,6 @@
 
-![](https://github.com/VictorGALEA/WCS/blob/main/amongus.PNG = 100x)
+![](https://github.com/VictorGALEA/WCS/blob/main/amongus.PNG)
+<img src="(https://github.com/VictorGALEA/WCS/blob/main/amongus.PNG" width="48">
 
 #### Victor Galea 
 ##### Administrateur Réseaux
