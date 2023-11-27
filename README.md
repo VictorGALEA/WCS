@@ -1,5 +1,5 @@
 
-(main/amongus.png)
+![Alt text](/relative/path/to/amongus.png?raw=true "Optional Title")
 
 
 #### Victor Galea 
