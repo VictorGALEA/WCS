@@ -21,17 +21,17 @@ Intéressé de se former et d'acquérir des connaissances dans la virtualisation
 
 
 Administrateur Réseaux
-Sapeurs-pompiers de la Haute-Garonne
+**Sapeurs-pompiers de la Haute-Garonne**
 2021 - 2022 1 an
 
 Colomiers, Occitanie, France
 
-* Maintien en condition opérationnelle des équipements réseaux de l'infrastructure du SDIS31, + de 30 sites.
-* Installation, gestion et mise à jour de l’ensemble des équipements, logiciels réseaux.
-* Support niveau 2 de tickets incident sur ces périmètres et assistance aux utilisateurs.
+* _Maintien en condition opérationnelle des équipements réseaux de l'infrastructure du SDIS31, + de 30 sites._
+* _Installation, gestion et mise à jour de l’ensemble des équipements, logiciels réseaux._
+* _Support niveau 2 de tickets incident sur ces périmètres et assistance aux utilisateurs._
 
 Administrateur Réseaux et Télécommunications
-Mairie de Blagnac
+**Mairie de Blagnac**
 2017 - 2020 3 ans
 
 Blagnac, Occitanie, France
@@ -43,15 +43,15 @@ Support niveau 2 de tickets sur ces périmètres, assistance aux utilisateurs
 
 
 Technicien Réseaux
-STCI - GROUPE APIXIT
+**STCI - GROUPE APIXIT**
 2015 - 2016 1 an
 
 Balma, Occitanie, France
 
 étude et conseil audit WiFi, administration et sécurité Firewall, configuration équipements cœur de réseau
-Graphique INFODESCA
+
 Technicien Réseaux et Télécommunications
-INFODESCA
+**INFODESCA**
 2015 - 2015 moins d’un an
 
 Labège, Occitanie, France
