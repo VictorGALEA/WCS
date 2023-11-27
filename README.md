@@ -1,8 +1,8 @@
 ![](https://github.com/VictorGALEA/WCS/blob/main/amongus.PNG)
 
 
-#### Victor Galea 
-##### Administrateur Réseaux
+# Victor Galea 
+## Administrateur Réseaux
 
 
 Network administrator with experiences on Cisco and HPE Aruba products.
